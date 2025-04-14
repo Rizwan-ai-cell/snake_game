@@ -41,3 +41,31 @@ cd snake-game-python
 
 # Run the game
 python snake_game.py
+
+---
+
+## 💡 How It Works
+
+- 🟢 The snake moves continuously in the chosen direction using arrow keys.  
+- 🍎 Food appears randomly on the screen. When the snake eats the food, it grows longer.  
+- 💥 If the snake hits the wall or itself, the game ends.  
+- 🧮 Score is updated and displayed in real time.
+
+---
+
+## 🙌 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+Made with ❤️ Muhammad Rizwan Ali
+🔗 [LinkedIn](https://www.linkedin.com/in/rizwan-ali-ai/)
